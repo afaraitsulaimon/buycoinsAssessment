@@ -1,3 +1,15 @@
+
+This is a simple application, can allow you search for the particular set of item you want from the database, i  created a json file to hold the data and used a json server to watch the file, so that we can have an api to fetch data from locally.
+
+This is the line of code used in watching the db.json file , which we sent it to port 8000
+
+npx json-server --watch data/db.json --port 8000
+
+
+Data can be easily fetched using date , status, type, name or via the search box
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
