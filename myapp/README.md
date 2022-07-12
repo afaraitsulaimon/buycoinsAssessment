@@ -8,7 +8,7 @@ npx json-server --watch data/db.json --port 8000
 
 Data can be easily fetched using date , status, type, name or via the search box
 
-
+Can be improved by adding a form to post transactions to the json file
 
 # Getting Started with Create React App
 
