@@ -1,0 +1,144 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Bitcoin",
+      "type": "B2B",
+      "status": "Available",
+      "date": "03-22-2022"
+    },
+    {
+      "id": 2,
+      "name": "Cardano",
+      "type": "P2P",
+      "status": "Available",
+      "date": "03-22-2022"
+    },
+    {
+      "id": 3,
+      "name": "Cardano",
+      "type": "P2P",
+      "status": "Sold",
+      "date": "03-22-2022"
+    },
+    {
+      "id": 4,
+      "name": "Ethereum",
+      "type": "P2P",
+      "status": "Available",
+      "date": "03-22-2022"
+    },
+    {
+      "id": 5,
+      "name": "Ethereum",
+      "type": "B2B",
+      "status": "Sold",
+      "date": "04-20-2022"
+    },
+    {
+      "id": 6,
+      "name": "Bitcoin",
+      "type": "P2P",
+      "status": "Sold",
+      "date": "04-20-2022"
+    },
+    {
+      "id": 7,
+      "name": "Bitcoin",
+      "type": "B2B",
+      "status": "Sold",
+      "date": "04-20-2022"
+    },
+    {
+      "id": 8,
+      "name": "Tether",
+      "type": "P2P",
+      "status": "Available",
+      "date": "04-20-2022"
+    },
+    {
+      "id": 9,
+      "name": "Cardano",
+      "type": "P2P",
+      "status": "Sold",
+      "date": "06-15-2022"
+    },
+    {
+      "id": 10,
+      "name": "Ethereum",
+      "type": "P2P",
+      "status": "Available",
+      "date": "06-15-2022"
+    },
+    {
+      "id": 11,
+      "name": "Cardano",
+      "type": "P2P",
+      "status": "Available",
+      "date": "06-15-2022"
+    },
+    {
+      "id": 12,
+      "name": "Tether",
+      "type": "P2P",
+      "status": "Available",
+      "date": "06-15-2022"
+    },
+    {
+      "id": 13,
+      "name": "Bitcoin",
+      "type": "P2P",
+      "status": "Available",
+      "date": "06-21-2022"
+    },
+    {
+      "id": 14,
+      "name": "Ethereum",
+      "type": "B2B",
+      "status": "Sold",
+      "date": "06-21-2022"
+    },
+    {
+      "id": 15,
+      "name": "Ethereum",
+      "type": "P2P",
+      "status": "Sold",
+      "date": "06-21-2022"
+    },
+    {
+      "id": 16,
+      "name": "Tether",
+      "type": "P2P",
+      "status": "Sold",
+      "date": "06-21-2022"
+    },
+    {
+      "id": 17,
+      "name": "Tether",
+      "type": "B2B",
+      "status": "Available",
+      "date": "07-10-2022"
+    },
+    {
+      "id": 18,
+      "name": "Ethereum",
+      "type": "P2P",
+      "status": "Sold",
+      "date": "07-10-2022"
+    },
+    {
+      "id": 19,
+      "name": "Ethereum",
+      "type": "B2B",
+      "status": "Available",
+      "date": "07-10-2022"
+    },
+    {
+      "id": 20,
+      "name": "Bitcoin",
+      "type": "B2B",
+      "status": "Sold",
+      "date": "07-10-2022"
+    }
+  ]
+}
