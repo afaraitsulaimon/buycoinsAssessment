@@ -28,7 +28,6 @@ const TransactionDisplay = ({theTransactions, searchVal}) => {
                
               }).sort((a,b) => new Date(a.date) - new Date(b.date)).map((transact) => (
                 <div>
-                  {transact.date}
                 <TransactionHolder key={transact.id}>
                 
                         <h3>{transact.name}</h3>
